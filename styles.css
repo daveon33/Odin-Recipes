@@ -1,0 +1,51 @@
+/* Home page CSS */
+body,
+a {
+    background-color: #442F38;
+    color: #E7F9A9;
+}
+
+header {
+    width: 700px;
+    margin: auto;
+    
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    margin: 0 0 0 8em;
+}
+
+#buñuelos {
+    margin: 0 0 0 6em;
+}
+
+p {
+    text-align: center;
+}
+
+hr {
+    width: 700px;
+    border: 10px bold black;
+    margin-top: 1em;
+}
+
+div,
+footer {
+    width: 700px;
+    margin: auto;
+}
+
+ul, ol {
+    margin: 1.5em 0 0 4em;
+}
+
+#home {
+    margin: 0 0 0 20em;
+    padding-top: 0.5em;
+}
+
